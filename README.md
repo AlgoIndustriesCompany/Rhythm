@@ -1,4 +1,4 @@
-# rhythm-ultra
+# Rhythm
 Rhythm Ultra is an intuitive tool to build, backtest, and deploy price action-based trading strategies on the MetaTrader 5 platform.
 
 Rhythm brings possibility to automate any strategy based on numerous formations:
