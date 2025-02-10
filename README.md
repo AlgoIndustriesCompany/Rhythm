@@ -21,4 +21,6 @@ Here are some key advantages:
 - Counterargument Analysis
 
 
-All the documantation on how to use Rhythm can be found in "user-manual" chat of our Discord channel by the link - https://discord.com/channels/1220369014329446544/1220458275263217665.
+All the documantation on how to use Rhythm can be found in "user-manual" chat of our Discord channel by the link - https://discord.com/channels/1220369014329446544/1220458275263217665
+
+Rhythm Ultra can be freely downloaded and used on the MT5 platform via the following link: https://www.mql5.com/en/market/product/116686
